@@ -1,0 +1,32 @@
+{
+    "Start_row": 5,
+    "NameList": [
+        "\u8001\u5730\u65b9\u5eda\u623f",
+        "\u6995\u6a39\u4e0b\u53e4\u65e9\u5473\u9999\u83c7\u8089\u7fb9\u9eb5",
+        "\u4faf\u8a18\u4e2d\u5f0f\u65e9\u9910"
+    ],
+    "restaurant": [
+        {
+            "Name": "\u8001\u5730\u65b9\u5eda\u623f",
+            "Location": "\u6c11\u96c4\u5e02\u5340",
+            "Time": "\u5348\u9910, \u665a\u9910",
+            "Type": "\u4fbf\u7576",
+            "Staple": "\u98ef"
+        },
+        {
+            "Name": "\u6995\u6a39\u4e0b\u53e4\u65e9\u5473\u9999\u83c7\u8089\u7fb9\u9eb5",
+            "Location": "\u4e2d\u6b63\u5730\u5340",
+            "Time": "\u5348\u9910, \u665a\u9910",
+            "Type": "",
+            "Staple": "\u98ef"
+        },
+        {
+            "Name": "\u4faf\u8a18\u4e2d\u5f0f\u65e9\u9910",
+            "Location": "\u4e2d\u6b63\u5730\u5340",
+            "Time": "\u65e9\u9910, \u5348\u9910",
+            "Type": "",
+            "Staple": "\u98ef, \u9eb5"
+        }
+    ],
+    "record_floor": 55080
+}

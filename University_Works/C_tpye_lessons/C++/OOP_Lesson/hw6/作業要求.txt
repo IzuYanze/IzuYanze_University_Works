@@ -1,0 +1,43 @@
+【作業公告】HW06由 [NULL]
+作業繳交方式請參考【公告】2023年 物件導向程式設計作業繳交總則
+並將檔案上傳至 HW06 資料夾內
+
+[HW06 ─ Christmas gifts (inheritance & polymorphism)]
+
+[作業要求]
+此次作業限定以C++語言撰寫，並且需提供makefile
+檔案名稱請統一：Customer.h、Customer.cpp、main.cpp
+
+(I) Customer.h、Customer.cpp (60%)：
+    Customer.h:
+        於Customer, OrdinaryCustomer, PremiumCustomer 三個class內分別加上所需要的private orprotected data member。作業pdf中有六個 (virtual) ，請同學自行判斷何處該保留virtual，若不需要則刪除。
+    Customer.cpp:
+        僅能實作Customer.h中現有的public member functions。
+        <Copy Constructor要求>
+            假設有第一個OrdinaryCustomer物件A("Vivian", "Wang", "Taichung", "...")，且還沒有任何 PremiumCustomer
+            此時若呼叫copy constructor以利用A來創建第二個OrdinaryCustomer物件B
+            則Copy Constructor應印出:
+                "Calling the copy constructor to copy data from: Vivian Wang, at Taichung."
+                "This is the 2nd OrdinaryCustomer, and 2nd Customer."
+    評分方式：
+        通過main1 (即作業pdf中main的標準答案版) +25
+        通過main2 (進階版) +25
+        通過main3 (隱藏版) +10
+
+(II) main.cpp (30%)
+    完成以下兩部分，並且需做到dynamic binding
+        Produce outputs
+        Release previously allocated memory
+
+(III) Bonus：
+    整體 coding style
+
+[注意事項]
+    C++的部分必須完全使用C++的語法，非必要不應混用C語言。
+    若有特殊理由需使用到C語言可於readme說明，否則助教會斟酌扣分
+    
+    data member不論是否為const，都應利用member initializer的方式來初始化，可參考上課投影片[NULL]
+    
+    請不要使用global variable
+    CustomerList.h及CustomerList.cpp請直接使用我們提供的版本 (作業pdf中的debug後版本)，不要自行做其他修改。
+    main.cpp也可以使用我們提供的debug後版本，並於指定區域填入code。

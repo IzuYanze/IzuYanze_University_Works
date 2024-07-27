@@ -1,0 +1,19 @@
+This is the 1st OrdinaryCustomer, and 1st Customer.
+This is the 1st PremiumCustomer, and 2nd Customer.
+This is the 2nd OrdinaryCustomer, and 3rd Customer.
+
+Vivian Wang, at Taichung.
+This is the 1st OrdinaryCustomer, and 1st Customer.
+Please send one bottle Holsten using ordinary present wrapper.
+
+Sam Lee, at Kaohsiung.
+This is the 1st PremiumCustomer, and 2nd Customer.
+Please send one bottle Bordeaux using premium present wrapper.
+
+John Chen, at Taipei.
+This is the 2nd OrdinaryCustomer, and 3rd Customer.
+Please send one bottle Ginger Ale using ordinary present wrapper.
+
+Survived 1 OrdinaryCustomer, and 2 Customer.
+Survived 0 PremiumCustomer, and 1 Customer.
+Survived 0 OrdinaryCustomer, and 0 Customer.

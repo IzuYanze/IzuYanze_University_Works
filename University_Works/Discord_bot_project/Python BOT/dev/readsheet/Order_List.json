@@ -1,0 +1,26 @@
+{
+    "breakfast":{
+        "CCU":[],
+        "Tamio":[],
+        "Chiayi":[],
+        "others":[]
+    },
+    "lunch":{
+        "CCU":[],
+        "Tamio":[],
+        "Chiayi":[],
+        "others":[]
+    },
+    "dinner":{
+        "CCU":[],
+        "Tamio":[],
+        "Chiayi":[],
+        "others":[]
+    },
+    "nightsnack":{
+        "CCU":[],
+        "Tamio":[],
+        "Chiayi":[],
+        "others":[]
+    }
+}

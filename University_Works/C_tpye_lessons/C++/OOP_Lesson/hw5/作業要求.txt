@@ -1,0 +1,23 @@
+(I)主要功能 (80%)：
+依照題目要求實作以下項目
+　　1. "Identity matrix" constructor
+　　2. "Array initialization" constructor
+　　3. determinant()
+　operator overloading:
+　　4. [matrix] + [matrix]
+　　5. [matrix] * scalar
+　　6. [matrix] * [matrix]
+　　7.[matrix] == [matrix]
+　　8. [matrix] != [matrix]
+
+　　9. << [matrix]
+　　10. scalar * [matrix]
+
+(II)Bonus：
+整體 coding style
+實作其他operator，可能有額外加分機會
+[注意事項]
+C++的部分必須完全使用C++的語法，非必要不應混用C語言。
+若有特殊理由需使用到C語言可於readme說明，否則助教會斟酌扣分
+data member不論是否為const，都應利用member initializer的方式來初始化，可參考上課投影片[NULL]
+記得適時加上const或reference

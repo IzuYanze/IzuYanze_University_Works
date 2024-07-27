@@ -1,0 +1,30 @@
+{
+    "IzuYanze" : "",
+    "Me":"",
+    "token" : "",
+    "Hello_Lobby" : "",
+    "greeting lobby" : "",
+    "tokenB" : "",
+    "tokenTest":"",
+
+
+
+
+
+
+    "Moderators":["A","B"],
+
+    "NightTime":"2300",
+    "MorningTime":"0730",
+
+    "Start Up Lobby":"",
+
+    "RoleMsg1":"",
+
+    "bomb":["野","格","炸","彈","我","的","最","愛","超","爽","口","感"],
+    "stay cool" : ["Stay cool","stay cool","Stay Cool"],
+
+    "Ecourse 2" : ["Ecourse2","Ecourse 2","Ecourse 2 ","課程網站","ecourse2"],
+    "CCU single entry" : ["CCU single entry","單一入口"],
+    "CCU website" : ["CCU website","中正官網","中正大學"]
+}

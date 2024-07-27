@@ -1,0 +1,21 @@
+{
+  "name": "yanyinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "IzuYanze",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
